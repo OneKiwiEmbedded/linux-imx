@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: GPL-2.0+
+/*
+ * Copyright 2017-2020 NXP
+ */
+
+/dts-v1/;
+
+#include "imx8qxp.dtsi"
+#include "imx8qxp-onekiwi.dtsi"
+
+/ {
+	model = "OneKiwi i.MX8QXP SOM";
+	compatible = "onekiwi,imx8qxp-onekiwi", "fsl,imx8qxp";
+};
