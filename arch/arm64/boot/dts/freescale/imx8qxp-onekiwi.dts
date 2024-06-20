@@ -5,7 +5,7 @@
 
 /dts-v1/;
 
-#include "imx8qxp.dtsi"
+#include "imx8dxp.dtsi"
 #include "imx8qxp-onekiwi.dtsi"
 
 / {
