@@ -11,7 +11,7 @@
 
 / {
 	model = "OneKiwi - Variscite i.MX8QXP RevC";
-	compatible = "fsl,imx8qxp-var-som", "fsl,imx8qxp";
+	compatible = "fsl,imx8qxp-variscite", "fsl,imx8qxp";
 
 	aliases {
 		i2c0 = &i2c0;

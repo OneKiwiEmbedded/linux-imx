@@ -225,8 +225,8 @@ dtb-$(CONFIG_ARCH_MXC) += imx8qm-mek.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8qxp-ai_ml.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8qxp-colibri-eval-v3.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8qxp-mek.dtb
-dtb-$(CONFIG_ARCH_MXC) += imx8qxp-onekiwi.dtb
-dtb-$(CONFIG_ARCH_MXC) += imx8qxp-var-som.dtb imx8qxp-var-som-sd.dtb imx8qxp-var-som-wifi.dtb
+dtb-$(CONFIG_ARCH_MXC) += imx8dxp-onekiwi.dtb
+dtb-$(CONFIG_ARCH_MXC) += imx8qxp-variscite.dtb imx8qxp-variscite-sd.dtb imx8qxp-variscite-wifi.dtb
 dtb-$(CONFIG_ARCH_MXC) += imx8ulp-evk.dtb imx8ulp-evk-lpspi-slave.dtb \
 			  imx8ulp-evk-i3c.dtb imx8ulp-evk-rk055hdmipi4m.dtb imx8ulp-evk-rk055hdmipi4mv2.dtb \
 			  imx8ulp-evk-epdc.dtb imx8ulp-evk-sof-btsco.dtb \

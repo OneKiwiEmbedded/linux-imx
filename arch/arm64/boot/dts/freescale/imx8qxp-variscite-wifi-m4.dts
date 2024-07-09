@@ -3,8 +3,8 @@
  * Copyright 2019-2023 Variscite Ltd.
  */
 
-#include "imx8qxp-var-som-wifi.dts"
-#include "imx8qxp-var-som-m4.dtsi"
+#include "imx8qxp-variscite-wifi.dts"
+#include "imx8qxp-variscite-m4.dtsi"
 
 / {
 	model = "Variscite VAR-SOM-MX8X on Symphony-Board WIFI M4";

@@ -3,7 +3,7 @@
  * Copyright 2019-2023 Variscite Ltd.
  */
 
-#include "imx8qxp-var-som.dts"
+#include "imx8qxp-variscite.dts"
 
 / {
 	model = "Variscite VAR-SOM-MX8X on Symphony-Board SD";
